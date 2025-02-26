@@ -1,3 +1,3 @@
 # first-app
-My first programm in github.
-Author - hrry potter
+My first programm in github.<br>
+<h1>Author - harry potter</h1>
