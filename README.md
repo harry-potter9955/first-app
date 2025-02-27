@@ -2,4 +2,4 @@
 
 My first programm in github.<hr>
 
-<h1>Author - james potter</h1>
+<h1>Author - harry potter</h1>
